@@ -86,4 +86,5 @@ public static void main(String args[])
 	public static long lifeTime(Date today, Date birthday) {
 		return today.getTime() - birthday.getTime();
 	}
+	
 }
