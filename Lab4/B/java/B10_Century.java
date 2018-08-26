@@ -1,6 +1,6 @@
 
 
-package javalab4_b;
+package javalab4_B;
 
 /**
  * @author Ivan Panamarou
